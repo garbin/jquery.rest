@@ -1,0 +1,22 @@
+{
+  "name": "jquery.rest",
+  "version": "1.0.0",
+  "description": "jQuery REST Client ===== v1.0.1",
+  "main": "dist/jquery.rest.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garbin/jquery.rest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garbin/jquery.rest/issues"
+  },
+  "homepage": "https://github.com/garbin/jquery.rest#readme"
+}
