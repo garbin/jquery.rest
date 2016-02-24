@@ -16,7 +16,7 @@ stringify = (obj) ->
 
 inheritExtend = (a, b) ->
   F = () ->
-  F.prototype = a
+  F.prototype = $.extend true, {}, a
   $.extend true, new F(), b
 
 validateOpts = (options) ->
